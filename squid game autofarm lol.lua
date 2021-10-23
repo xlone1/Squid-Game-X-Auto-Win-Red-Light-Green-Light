@@ -1,4 +1,4 @@
--- ik u retards are thinking "i can reutnr the exploits global env and yes u can i dont give a fuck its not even obfuscated idk if it works on free exploits so here u have it"
+-- ur gay lol
 
 getgenv().auth = nil;
 
